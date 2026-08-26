@@ -2,7 +2,7 @@
 
 **AI Product Manager who ships. I write the PRD and the production code.**
 
-5+ years across FinTech, HRTech, EdTech, and marketplaces. Currently Lead AI Product Manager at [Skilladder AI](https://skilladder.ai), where I took our assessment platform from prototype to primary product: deployment cut from weeks to 24 hours, 6 recurring enterprise clients, and a national talent cohort of 85,000+ candidates.
+5+ years across FinTech, HRTech, EdTech, and marketplaces. Currently Lead AI Product Manager at [Skilladder AI](https://skilladder.ai), where I took our assessment platform from prototype to primary product. Deployment went from weeks to 24 hours, and the platform serves 6 recurring enterprise clients and assessed a national talent cohort of 85,000+ candidates.
 
 **Open to AI Product Manager roles · Berlin / EU remote**
 
@@ -12,9 +12,9 @@
 
 | Project | What it is |
 |---|---|
-| [Skilladder Assessments](https://assessments.skilladder.ai) | Multi-tenant AI assessment platform: creator studio, proctoring, 60+ endpoint API, 85,000+ candidates |
-| [GRWTEE](https://grwtee.com) | Luxury personal styling platform: booking, service catalog, gallery |
-| [Orderflow](https://app.tryorderflow.com) | WhatsApp-native commerce engine powering Vendflow (electricity vending), Autopapers NG (vehicle papers), and food ordering. Kotlin + Spring Boot, live on WhatsApp |
+| [Skilladder Assessments](https://assessments.skilladder.ai) | Multi tenant AI assessment platform with a creator studio, proctoring, a 60+ endpoint API, and 85,000+ candidates assessed |
+| [GRWTEE](https://grwtee.com) | Personal styling iOS app with a digital wardrobe, AI virtual try on, and an outfit calendar |
+| [Orderflow](https://app.tryorderflow.com) | WhatsApp commerce platform for food ordering, ticketing, electricity vending, and vehicle papers, with payments and a hardware fleet. Kotlin and Spring Boot, live in production |
 | [CVERSE](https://demirti.com) | Cohort-based learning management platform |
 | [Banyan Claims](https://banyanclaims.com) | Claims management platform |
 | [Osun Decides](https://github.com/IamDejman/osun-decides) | Polling-unit results for the 2026 Osun State governorship election |
