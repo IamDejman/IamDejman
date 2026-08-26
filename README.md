@@ -14,7 +14,7 @@
 |---|---|
 | [Skilladder Assessments](https://assessments.skilladder.ai) | Multi-tenant AI assessment platform: creator studio, proctoring, 60+ endpoint API, 85,000+ candidates |
 | [GRWTEE](https://grwtee.com) | Luxury personal styling platform: booking, service catalog, gallery |
-| Vendflow + Autopapers NG | WhatsApp-native commerce engine: electricity vending and vehicle paper renewal, live on WhatsApp |
+| Orderflow | WhatsApp-native commerce engine powering Vendflow (electricity vending), Autopapers NG (vehicle papers), and food ordering. Kotlin + Spring Boot, live on WhatsApp. Private repo |
 | [CVERSE](https://demirti.com) | Cohort-based learning management platform |
 | [Banyan Claims](https://banyanclaims.com) | Claims management platform |
 | [Osun Decides](https://github.com/IamDejman/osun-decides) | Polling-unit results for the 2026 Osun State governorship election |
