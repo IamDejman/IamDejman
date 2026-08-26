@@ -8,7 +8,7 @@
 
 ## Selected builds
 
-12 live products, built end to end with AI-assisted development.
+11 live products, built end to end with AI-assisted development.
 
 | Project | What it is |
 |---|---|
