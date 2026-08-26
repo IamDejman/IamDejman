@@ -23,9 +23,9 @@ Full list with case studies: [ayodejieluwande.vercel.app](https://ayodejieluwand
 
 ## Stack
 
-Next.js · React · TypeScript · Supabase · PostgreSQL · Kotlin / Spring Boot · Tailwind
+Next.js · React · TypeScript · Supabase · PostgreSQL · Kotlin / Spring Boot · Tailwind · Vercel · Railway · AWS
 
-Built with Cursor, Claude Code, and Gemini. Product ops in Linear, Figma, and Postman.
+Built with Cursor, Claude Code, Codex, and Gemini. Product ops in Linear, Figma, and Postman.
 
 ## Contact
 
